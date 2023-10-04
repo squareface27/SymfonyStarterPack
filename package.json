@@ -1,0 +1,35 @@
+{
+    "name": "symfony-starter-pack",
+    "displayName": "Symfony Starter Pack",
+    "description": "Un pack d'extensions pour faciliter le démarrage avec Symfony",
+    "author": "Squareface",
+    "version": "1.1.0",
+    "publisher": "Squareface",
+    "icon": "images/symfony.png",
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/squareface27/SymfonyStarterPack"
+  },
+    "engines": {
+      "vscode": "^1.0.0"
+    },
+    "categories": [
+      "Extension Packs"
+    ],
+    "pricing": "Free",
+    "extensionPack": [ 
+        "xdebug.php-debug", 
+        "neilbrayfield.php-docblocker", 
+        "phproberto.vscode-php-getters-setters", 
+        "bmewburn.vscode-intelephense-client", 
+        "MehediDracula.php-namespace-resolver", 
+        "mblode.twig-language-2", 
+        "bajdzis.vscode-twig-pack",
+        "BracketPairColorDLW.bracket-pair-color-dlw",
+        "usernamehw.errorlens",
+        "cweijan.vscode-mysql-client2",
+        "junstyle.php-cs-fixer",
+        "vscode-icons-team.vscode-icons"
+    ]
+  }
+  
