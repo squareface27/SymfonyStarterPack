@@ -24,7 +24,10 @@ This pack includes the following extensions:
 
 ## Required Configuration
 
-Visual Studio Code v1.0.0 or later.
+- Visual Studio Code v1.74.0 or later.
+- Symfony CLI
+- NPM
+- PHP
 
 ## Installation
 
@@ -69,7 +72,10 @@ Ce pack inclut les extensions suivantes :
 
 ## Configuration requise
 
-- Visual Studio Code v1.0.0 ou version ultérieure.
+- Visual Studio Code v1.74.0 ou version ultérieure.
+- Symfony CLI
+- NPM
+- PHP
 
 ## Installation
 
