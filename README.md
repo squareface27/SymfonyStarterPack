@@ -19,6 +19,7 @@ This pack includes the following extensions:
 9. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 10. [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 11. [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer)
+12. [Symfony Tools extension by NDNCI](https://marketplace.visualstudio.com/items?itemName=NDNCI.vscode-symfony-tools)
 
 - The icon pack [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
@@ -67,6 +68,7 @@ Ce pack inclut les extensions suivantes :
 9. [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 10. [MySQL](https://marketplace.visualstudio.com/items?itemName=cweijan.vscode-mysql-client2)
 11. [php cs fixer](https://marketplace.visualstudio.com/items?itemName=junstyle.php-cs-fixer)
+12. [Symfony Tools extension by NDNCI](https://marketplace.visualstudio.com/items?itemName=NDNCI.vscode-symfony-tools)
 
 - Le pack d'icônes [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
 
